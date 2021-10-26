@@ -8,13 +8,13 @@ order: 2
         {
             "type": "TextualBody",
             "value": "test",
-            "purpose": "commenting",
+            "purpose": "assessing",
             "creator": {
                 "id": "dnoneill",
                 "name": "dnoneill"
             },
             "created": "2021-10-26T11:34:10.098Z",
-            "modified": "2021-10-26T11:34:10.513Z"
+            "modified": "2021-10-26T11:34:31.068Z"
         }
     ],
     "target": {
@@ -22,7 +22,7 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:1354.066162109375,1262.6156005859375,1470.168701171875,1323.1519775390625"
+            "value": "xywh=pixel:1798.3447265625,1810.5863037109375,1470.168701171875,1323.1519775390625"
         },
         "dcterms:isPartOf": {
             "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
