@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "It feels like everyone is playing a game that I don't know the rules to. Even the animals.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lucekroger",
+                "name": "lucekroger"
+            },
+            "created": "2021-10-28T16:25:47.246Z",
+            "modified": "2021-10-28T16:26:16.105Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:44.027435302734375,3199.186279296875,4611.913970947266,184.94091796875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "425505d0-b31e-41bf-b451-058653066d3c.json"
+}
