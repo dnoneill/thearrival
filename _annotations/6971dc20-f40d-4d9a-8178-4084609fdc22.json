@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "They were speaking a language I had never heard before. I tried my best to make sense of it",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Jackson0919",
+                "name": "Jackson0919"
+            },
+            "created": "2021-10-28T16:34:58.714Z",
+            "modified": "2021-10-28T16:35:23.932Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:95.5731430053711,1513.438232421875,4547.667579650879,294.1278076171875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6971dc20-f40d-4d9a-8178-4084609fdc22.json"
+}
