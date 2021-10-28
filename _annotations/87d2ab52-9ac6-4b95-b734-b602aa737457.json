@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I occupied my time by finding shapes in the clouds",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sophieblankenship",
+                "name": "sophieblankenship"
+            },
+            "created": "2021-10-28T16:34:42.653Z",
+            "modified": "2021-10-28T16:34:56.142Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:96.081298828125,1150.3251953125,2534.984130859375,153.692626953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "87d2ab52-9ac6-4b95-b734-b602aa737457.json"
+}
