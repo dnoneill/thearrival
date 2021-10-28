@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The massive cloud was an imposing, dominant force upon the small immigrant ship.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "BennettRE",
+                "name": "BennettRE"
+            },
+            "created": "2021-10-28T16:43:12.607Z",
+            "modified": "2021-10-28T16:43:45.896Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1650.5675048828125,1163.4471435546875,2840.2152099609375,2193.0972900390625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "94b71997-4c7d-4148-882a-910bb684fc06.json"
+}
