@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "...and grew...",
+            "purpose": "commenting",
+            "creator": {
+                "id": "tuck-themagic-brandon",
+                "name": "tuck-themagic-brandon"
+            },
+            "created": "2021-10-28T16:29:21.166Z",
+            "modified": "2021-10-28T16:29:23.054Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1671.7672119140625,5814.64013671875,1339.1781005859375,206.02734375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "47773f8c-bb41-4064-8585-133f784047a0.json"
+}
