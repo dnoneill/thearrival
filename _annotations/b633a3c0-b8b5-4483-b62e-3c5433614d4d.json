@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-8"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I sat on that swaying boat for what felt like an eternity, surrounded by the stench of other tired, hopeful people.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Carcarcarlene",
+                "name": "Carcarcarlene"
+            },
+            "created": "2021-10-28T16:36:40.917Z",
+            "modified": "2021-10-28T16:36:51.623Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-8",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:457.48480224609375,5571.26416015625,1368.3806762695312,456.12646484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b633a3c0-b8b5-4483-b62e-3c5433614d4d.json"
+}
