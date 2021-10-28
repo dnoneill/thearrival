@@ -14,7 +14,7 @@ order: 1
                 "name": "CalebY26"
             },
             "created": "2021-10-28T16:24:10.128Z",
-            "modified": "2021-10-28T16:24:12.919Z"
+            "modified": "2021-10-28T16:25:24.454Z"
         }
     ],
     "target": {
@@ -22,7 +22,7 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:448.83990478515625,1910.856201171875,872.3200073242188,315.840087890625"
+            "value": "xywh=pixel:443.03753662109375,1887.6463623046875,872.3200073242188,315.840087890625"
         },
         "dcterms:isPartOf": {
             "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
