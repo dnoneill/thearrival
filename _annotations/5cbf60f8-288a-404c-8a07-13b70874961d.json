@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-14"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I grab my bag, trying to make my way through the crowd of people, eager and nervous to take on this new world.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ainsley-davis",
+                "name": "ainsley-davis"
+            },
+            "created": "2021-10-28T16:40:44.301Z",
+            "modified": "2021-10-28T16:41:20.729Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-14",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:-2001.2188720703125,1894.253662109375,2038.3142890930176,574.286376953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5cbf60f8-288a-404c-8a07-13b70874961d.json"
+}
