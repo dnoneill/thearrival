@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-4"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "This cloud makes me think that these are my guardian angels watching over me. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kjtoala",
+                "name": "kjtoala"
+            },
+            "created": "2021-10-28T16:32:14.291Z",
+            "modified": "2021-10-28T16:32:34.559Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-4",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:750.2743530273438,4058.296142578125,2225.9146118164062,681.402099609375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3deb98fa-30a8-4d9e-b3d7-d9ca505cc8e2.json"
+}
