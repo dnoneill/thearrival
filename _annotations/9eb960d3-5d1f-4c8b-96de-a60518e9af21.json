@@ -1,0 +1,45 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-28"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A bed? I know just the place!",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:29:29.756Z",
+            "modified": "2021-10-28T16:29:37.993Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Picture specific",
+            "purpose": "tagging",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:29:40.215Z",
+            "modified": "2021-10-28T16:29:43.321Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-28",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3143.819091796875,3133.718994140625,1739.991455078125,383.620361328125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9eb960d3-5d1f-4c8b-96de-a60518e9af21.json"
+}
