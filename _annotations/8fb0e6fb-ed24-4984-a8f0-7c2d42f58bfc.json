@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 9
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Day 9",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Jesscsch",
+                "name": "Jesscsch"
+            },
+            "created": "2021-10-28T16:42:29.831Z",
+            "modified": "2021-10-28T16:42:30.762Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3364.3037109375,2155.416748046875,537.8271484375,231.90966796875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8fb0e6fb-ed24-4984-a8f0-7c2d42f58bfc.json"
+}
