@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-15"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Do you know what's going on? \n\nNo. I thought you did. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Jackson0919",
+                "name": "Jackson0919"
+            },
+            "created": "2021-10-28T16:28:39.277Z",
+            "modified": "2021-10-28T16:29:00.092Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-15",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3293.26416015625,4474.21337890625,1398.94921875,637.92138671875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "183b91de-6fae-47ea-8834-ef1daa1c7562.json"
+}
