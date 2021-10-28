@@ -1,0 +1,33 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-10"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\"Whoosh\" The strange birds flew off to guide the ship towards my new home. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Carcarcarlene",
+                "name": "Carcarcarlene"
+            },
+            "created": "2021-10-28T16:25:39.570Z",
+            "modified": "2021-10-28T16:27:30.959Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-10",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"848.6016387939453\" cy=\"6125.36767578125\" rx=\"504.4634246826172\" ry=\"213.6015625\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3b6e3732-c18c-48c1-b8f4-7d108cd91f1c.json"
+}
