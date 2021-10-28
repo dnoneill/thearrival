@@ -22,7 +22,7 @@ order: 7
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:675.6932373046875,5165.4189453125,852.2666015625,320.853515625"
+            "value": "xywh=pixel:570.6005859375,5165.4599609375,852.2666015625,320.853515625"
         },
         "dcterms:isPartOf": {
             "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
