@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-23"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "get out of the way little guys, I don't want to crush you!",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sophieblankenship",
+                "name": "sophieblankenship"
+            },
+            "created": "2021-10-28T16:41:33.859Z",
+            "modified": "2021-10-28T16:41:50.225Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-23",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:230.8361358642578,3246.4560546875,3127.574508666992,202.991455078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fa25aee9-923c-433a-80e4-a9c69125ea1f.json"
+}
