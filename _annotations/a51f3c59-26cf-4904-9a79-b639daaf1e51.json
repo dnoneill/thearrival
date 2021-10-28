@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-12"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The towering statues emphasize the aspects of possibility when moving to a new place, while also focusing on the strangeness and feeling of smallness that people on the nearby ship are likely experiencing. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "emilyyclaire",
+                "name": "emilyyclaire"
+            },
+            "created": "2021-10-28T16:30:25.848Z",
+            "modified": "2021-10-28T16:31:44.977Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-12",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3529.045654296875,587.7949829101562,876.343017578125,1299.7467651367188"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a51f3c59-26cf-4904-9a79-b639daaf1e51.json"
+}
