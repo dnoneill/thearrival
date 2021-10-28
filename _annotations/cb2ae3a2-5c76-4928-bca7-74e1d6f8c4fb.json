@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Everything here is strange.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lucekroger",
+                "name": "lucekroger"
+            },
+            "created": "2021-10-28T16:23:20.527Z",
+            "modified": "2021-10-28T16:23:38.071Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:65.156982421875,1494.4404296875,1333.6343994140625,131.312255859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cb2ae3a2-5c76-4928-bca7-74e1d6f8c4fb.json"
+}
