@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-16"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I am being poked and prodded like a wild animal who is being tamed for society. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ClarkR12",
+                "name": "ClarkR12"
+            },
+            "created": "2021-10-28T16:35:08.772Z",
+            "modified": "2021-10-28T16:35:41.207Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-16",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2465.88037109375,2247.559326171875,540.478271484375,565.538818359375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a7c341e1-7222-4771-b1c6-603b9baa9323.json"
+}
