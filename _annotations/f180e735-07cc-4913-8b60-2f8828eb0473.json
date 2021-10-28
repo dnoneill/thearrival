@@ -1,0 +1,33 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-10"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The birds were heading away, even they did not want to be here",
+            "purpose": "commenting",
+            "creator": {
+                "id": "catecornelius",
+                "name": "catecornelius"
+            },
+            "created": "2021-10-28T16:28:00.044Z",
+            "modified": "2021-10-28T16:28:52.356Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-10",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2310.197265625\" cy=\"1804.6463623046875\" rx=\"2015.6815185546875\" ry=\"425.49267578125\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f180e735-07cc-4913-8b60-2f8828eb0473.json"
+}
