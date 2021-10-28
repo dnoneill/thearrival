@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-14"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Unloading was somewhat chaotic.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "wctew",
+                "name": "wctew"
+            },
+            "created": "2021-10-28T16:36:49.219Z",
+            "modified": "2021-10-28T16:37:02.949Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-14",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:778.2400512695312,1033.3045654296875,580.7366333007812,402.2117919921875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b118e87e-7921-404f-ba93-5b74dc917297.json"
+}
