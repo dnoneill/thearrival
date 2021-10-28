@@ -1,0 +1,33 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I've decided to name him Beasley",
+            "purpose": "commenting",
+            "creator": {
+                "id": "rochguertin",
+                "name": "rochguertin"
+            },
+            "created": "2021-10-28T16:35:08.704Z",
+            "modified": "2021-10-28T16:35:15.549Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2251.603515625,4111.04638671875 3094.614990234375,4453.84716796875 3168.072265625,4016.60107421875 3234.53369140625,4789.65234375 3189.06005859375,4733.68505859375 3183.81298828125,4731.93603515625\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "680259c5-a099-4aa2-a3c5-021985047747.json"
+}
