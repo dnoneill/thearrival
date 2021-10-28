@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-12"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I knew that I arrived by the magnificent statues ahead of me",
+            "purpose": "commenting",
+            "creator": {
+                "id": "rgathert0419",
+                "name": "rgathert0419"
+            },
+            "created": "2021-10-28T16:24:17.128Z",
+            "modified": "2021-10-28T16:24:32.254Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-12",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1010.6656494140625,156.01519775390625,2402.5062255859375,295.3902893066406"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "721d1e02-dc4a-4647-a5ab-d847ac37619c.json"
+}
