@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-34"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I miss them...",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sophieblankenship",
+                "name": "sophieblankenship"
+            },
+            "created": "2021-10-28T16:32:34.693Z",
+            "modified": "2021-10-28T16:32:37.202Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-34",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:28.267261505126953,3164.9140625,4619.252269744873,320.31298828125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ff453bab-343d-48b9-bf42-c83d9d33a300.json"
+}
