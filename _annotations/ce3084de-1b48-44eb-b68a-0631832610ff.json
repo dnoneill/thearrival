@@ -3,32 +3,32 @@ canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/can
 order: 12
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Beautiful",
-            "purpose": "commenting",
+            "created": "2021-10-28T16:36:28.189Z",
             "creator": {
                 "id": "rgathert0419",
                 "name": "rgathert0419"
             },
-            "created": "2021-10-28T16:36:28.189Z",
-            "modified": "2021-10-28T16:36:30.989Z"
+            "modified": "2021-10-28T16:36:30.989Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Beautiful"
         }
     ],
+    "id": "ce3084de-1b48-44eb-b68a-0631832610ff.json",
     "target": {
-        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:3179.082275390625,3282.706787109375,876.322998046875,150.0009765625"
-        },
         "dcterms:isPartOf": {
             "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:3179.082275390625,3282.706787109375,876.322998046875,150.0009765625"
+        },
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "ce3084de-1b48-44eb-b68a-0631832610ff.json"
+    "type": "Annotation"
 }
