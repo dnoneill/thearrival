@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-31"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "this is not osha compliant",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lucekroger",
+                "name": "lucekroger"
+            },
+            "created": "2021-10-28T16:41:44.157Z",
+            "modified": "2021-10-28T16:41:48.572Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-31",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3618.580810546875,3959.785888671875,1070.112060546875,284.113037109375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a5ab103f-bb4d-4244-aaac-7f9a1302e723.json"
+}
