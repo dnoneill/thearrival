@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-10"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Are all of these birds flying away because they hated leaving their families?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kjtoala",
+                "name": "kjtoala"
+            },
+            "created": "2021-10-28T16:41:50.166Z",
+            "modified": "2021-10-28T16:42:15.542Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-10",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2283.3681640625,3975.717041015625,1996.0390625,515.370849609375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ee7d32b1-ba1c-4882-82c9-74a418ff3463.json"
+}
