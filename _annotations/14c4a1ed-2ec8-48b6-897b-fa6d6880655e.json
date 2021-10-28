@@ -1,0 +1,45 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-29"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Additive",
+            "purpose": "tagging",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:20:44.668Z",
+            "modified": "2021-10-28T16:20:46.819Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "So this is a Bjorukke, it may seem odd but they are what makes this nation great. They are our freinds and coexistors, and there is one in your room awaiting you.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:20:54.245Z",
+            "modified": "2021-10-28T16:22:34.495Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-29",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1899.297607421875,3199.784423828125,1371.310791015625,304.735595703125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "14c4a1ed-2ec8-48b6-897b-fa6d6880655e.json"
+}
