@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": " If there was words on these panels, I feel that it would start off narrow and then end broad. These panels start off very focused on the picture and ends with the picture of the ship. The dialogue might start off with a statement and then that might spiral into a question. Questioning his thoughts and feelings. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ClarkR12",
+                "name": "ClarkR12"
+            },
+            "created": "2021-10-28T16:25:15.807Z",
+            "modified": "2021-10-28T16:28:12.596Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:913.1932983398438,1676.3360595703125,1906.0830688476562,947.1326904296875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "105b459f-e795-4224-98c3-6350c9fc919a.json"
+}
