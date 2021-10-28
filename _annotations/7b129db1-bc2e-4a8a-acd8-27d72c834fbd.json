@@ -1,0 +1,45 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-16"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "My daughter turns 6 tomorrow, It feels like a year since I've seen her. How unbelievable that time passes without me witnessing it. Oh to feel like a passive viewer of my own existence",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:33:07.816Z",
+            "modified": "2021-10-28T16:34:53.900Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Parallel",
+            "purpose": "tagging",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:34:56.476Z",
+            "modified": "2021-10-28T16:34:58.945Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-16",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:35.9208869934082,3164.249267578125,4597.390636444092,302.36962890625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7b129db1-bc2e-4a8a-acd8-27d72c834fbd.json"
+}
