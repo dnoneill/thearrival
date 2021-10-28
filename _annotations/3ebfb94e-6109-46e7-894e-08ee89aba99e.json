@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "All different shapes each telling the story of my sorrows",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kjtoala",
+                "name": "kjtoala"
+            },
+            "created": "2021-10-28T16:34:58.056Z",
+            "modified": "2021-10-28T16:35:13.534Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2439.726806640625,2970.25439453125,3366.650634765625,714.9609375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3ebfb94e-6109-46e7-894e-08ee89aba99e.json"
+}
