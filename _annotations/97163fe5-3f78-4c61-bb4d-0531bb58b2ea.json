@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-20"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The sky glistened with seemingly dots of light.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "BennettRE",
+                "name": "BennettRE"
+            },
+            "created": "2021-10-28T16:41:44.384Z",
+            "modified": "2021-10-28T16:42:04.543Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-20",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1501.709228515625,2369.479736328125,3270.587158203125,1285.38330078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "97163fe5-3f78-4c61-bb4d-0531bb58b2ea.json"
+}
