@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-9"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "They all have different faces, different dreams ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ClarkR12",
+                "name": "ClarkR12"
+            },
+            "created": "2021-10-28T16:40:25.956Z",
+            "modified": "2021-10-28T16:40:48.128Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-9",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2314.708740234375,1436.4805908203125,356.0888671875,303.7685546875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a45f43a2-1c78-4443-a6c4-cb622e42e04c.json"
+}
