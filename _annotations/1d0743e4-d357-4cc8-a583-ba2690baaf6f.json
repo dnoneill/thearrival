@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Example \"I wonder what tomorrow will bring?\" ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ClarkR12",
+                "name": "ClarkR12"
+            },
+            "created": "2021-10-28T16:28:32.092Z",
+            "modified": "2021-10-28T16:28:59.773Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3967.93994140625,4910.37158203125,664.25048828125,641.396484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1d0743e4-d357-4cc8-a583-ba2690baaf6f.json"
+}
