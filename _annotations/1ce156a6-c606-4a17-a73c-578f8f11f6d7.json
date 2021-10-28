@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "What\u2019re you saying to me right now?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "IgorSilva51",
+                "name": "IgorSilva51"
+            },
+            "created": "2021-10-28T16:36:39.366Z",
+            "modified": "2021-10-28T16:36:47.350Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:170.93739318847656,4957.01123046875,1241.495590209961,239.32421875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1ce156a6-c606-4a17-a73c-578f8f11f6d7.json"
+}
