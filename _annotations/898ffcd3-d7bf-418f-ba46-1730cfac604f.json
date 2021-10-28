@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-16"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\"they poked and prodded me, asking questions I'd never had to think of before\"",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sophieblankenship",
+                "name": "sophieblankenship"
+            },
+            "created": "2021-10-28T16:26:46.881Z",
+            "modified": "2021-10-28T16:28:01.504Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-16",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:100.63922882080078,1502.53173828125,4517.526298522949,279.980712890625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "898ffcd3-d7bf-418f-ba46-1730cfac604f.json"
+}
