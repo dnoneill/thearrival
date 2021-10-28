@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-12"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\"The towering statues at the entrance to the city were a sight to behold, but nothing will replace the sight of my family.\" ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Carcarcarlene",
+                "name": "Carcarcarlene"
+            },
+            "created": "2021-10-28T16:28:34.041Z",
+            "modified": "2021-10-28T16:29:30.502Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-12",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:245.22201538085938,5664.39990234375,1535.9707336425781,568.8779296875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "bef40613-225b-4aba-8d84-c1040af2a70a.json"
+}
