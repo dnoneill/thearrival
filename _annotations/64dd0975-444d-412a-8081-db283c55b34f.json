@@ -3,32 +3,32 @@ canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/can
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "As I eat, staring out into the open sea, I long for my family. I sit feeling empty and alone, hoping for better days ahead.",
-            "purpose": "commenting",
+            "created": "2021-10-28T16:27:07.107Z",
             "creator": {
                 "id": "ainsley-davis",
                 "name": "ainsley-davis"
             },
-            "created": "2021-10-28T16:27:07.107Z",
-            "modified": "2021-10-28T16:28:59.326Z"
+            "modified": "2021-10-28T16:28:59.326Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "As I eat, staring out into the open sea, I long for my family. I sit feeling empty and alone, hoping for better days ahead."
         }
     ],
+    "id": "64dd0975-444d-412a-8081-db283c55b34f.json",
     "target": {
-        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:4375.65673828125,903.8519897460938,2263.82080078125,847.9037475585938"
-        },
         "dcterms:isPartOf": {
             "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:4375.65673828125,903.8519897460938,2263.82080078125,847.9037475585938"
+        },
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "64dd0975-444d-412a-8081-db283c55b34f.json"
+    "type": "Annotation"
 }
