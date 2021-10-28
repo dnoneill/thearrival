@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Look the guy told me to open my mouth, so I opened my mouth.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "IgorSilva51",
+                "name": "IgorSilva51"
+            },
+            "created": "2021-10-28T16:37:01.446Z",
+            "modified": "2021-10-28T16:37:15.901Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3528.95849609375,3259.303466796875,1129.3125,261.760986328125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "06f2cfee-a49f-4744-b060-4c1acadfae16.json"
+}
