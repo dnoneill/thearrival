@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-31"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The water system confounded me. I'd hate to know how the bathroom works",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "rochguertin",
+                "name": "rochguertin"
+            },
+            "created": "2021-10-28T16:27:02.985Z",
+            "modified": "2021-10-28T16:28:52.989Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-31",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1746.29248046875,3225.036865234375,2541.859375,279.837646484375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "016cdaec-ecaf-46be-9dff-e2a06ff4c0f3.json"
+}
