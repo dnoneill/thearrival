@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-18"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "He pulled out a file, checking to make sure everything was up to standards.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "BennettRE",
+                "name": "BennettRE"
+            },
+            "created": "2021-10-28T16:27:18.726Z",
+            "modified": "2021-10-28T16:27:52.801Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-18",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3359.729736328125,540.013916015625,1147.698974609375,743.4776611328125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a917948c-b625-4d47-8c3d-645cfb386ec8.json"
+}
