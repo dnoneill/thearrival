@@ -1,0 +1,45 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-29"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Yo whatcha lookin at, lookin at me, huh? Wanna fight? Yeah? Think you''ll win mr. Tough Guy, eh? Get out. I never want to see your face here again--",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:25:08.516Z",
+            "modified": "2021-10-28T16:25:57.573Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Interdependent",
+            "purpose": "tagging",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:26:13.767Z",
+            "modified": "2021-10-28T16:26:20.532Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-29",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3971.50048828125,2178.199462890625,220.93310546875,182.84130859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5ec43fe9-55cc-45f6-90f9-8c9d7b0875fc.json"
+}
