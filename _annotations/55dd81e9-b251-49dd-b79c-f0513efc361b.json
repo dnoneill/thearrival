@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Freedom tastes so good",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:42:11.662Z",
+            "modified": "2021-10-28T16:42:15.278Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:739.4209594726562,341.017333984375,655.0980834960938,199.977294921875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "55dd81e9-b251-49dd-b79c-f0513efc361b.json"
+}
