@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Look, that one looks like a butt",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sophieblankenship",
+                "name": "sophieblankenship"
+            },
+            "created": "2021-10-28T16:35:15.544Z",
+            "modified": "2021-10-28T16:35:21.306Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3071.272216796875,1116.171142578125,1001.849853515625,193.5391845703125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cf32a155-2021-41dc-9cc2-da4771f153a0.json"
+}
