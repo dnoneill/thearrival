@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The cloud is coming at me like a storm. This is the beginning but is my sacrifice worth it?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "kjtoala",
+                "name": "kjtoala"
+            },
+            "created": "2021-10-28T16:31:23.551Z",
+            "modified": "2021-10-28T16:31:55.398Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:416.38720703125,4775.26806640625,4023,1046.63427734375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5dd9c7de-e827-46ec-b24c-fa0317eae4db.json"
+}
