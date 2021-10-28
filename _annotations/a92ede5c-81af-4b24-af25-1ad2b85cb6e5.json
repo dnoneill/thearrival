@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-8"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "At that moment, everyone on that ship was ready for their arrival.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "wctew",
+                "name": "wctew"
+            },
+            "created": "2021-10-28T16:39:11.356Z",
+            "modified": "2021-10-28T16:39:33.689Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-8",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3701.638671875,2382.65185546875,641.15478515625,364.860595703125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a92ede5c-81af-4b24-af25-1ad2b85cb6e5.json"
+}
