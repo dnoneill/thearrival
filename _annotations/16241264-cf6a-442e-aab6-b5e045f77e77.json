@@ -1,0 +1,33 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Day after day I stared at the clouds watching them move and change while I am stuck waiting for the ship to land, waiting for my life to change as much as the clouds",
+            "purpose": "commenting",
+            "creator": {
+                "id": "catecornelius",
+                "name": "catecornelius"
+            },
+            "created": "2021-10-28T16:37:54.985Z",
+            "modified": "2021-10-28T16:38:32.934Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2313.885498046875\" cy=\"3214.4251098632812\" r=\"2189.082547583702\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "16241264-cf6a-442e-aab6-b5e045f77e77.json"
+}
