@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "As the man approached his new home, he could only think of his family in the world he left behind",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Jackson0919",
+                "name": "Jackson0919"
+            },
+            "created": "2021-10-28T16:29:57.231Z",
+            "modified": "2021-10-28T16:30:46.158Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:182.0418701171875,279.2810974121094,2535.5042724609375,822.6302795410156"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4f0a94bc-771b-441c-824d-20d0279f3f0f.json"
+}
