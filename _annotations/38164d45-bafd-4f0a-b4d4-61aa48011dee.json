@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Today I saw a cloud that looked like a hat. I wish I wore hats more often.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "catecornelius",
+                "name": "catecornelius"
+            },
+            "created": "2021-10-28T16:36:18.451Z",
+            "modified": "2021-10-28T16:36:40.104Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2155.913330078125,4600.2734375,718.0556640625,718.05615234375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "38164d45-bafd-4f0a-b4d4-61aa48011dee.json"
+}
