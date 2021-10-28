@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Today the cloud looked really swooshy. It makes me think of curls in the hair.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "catecornelius",
+                "name": "catecornelius"
+            },
+            "created": "2021-10-28T16:34:25.024Z",
+            "modified": "2021-10-28T16:34:54.522Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:12.6947603225708,298.3860168457031,833.6632719039917,814.2757263183594"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "89da574b-0a88-452a-97cd-57695e5ae96c.json"
+}
