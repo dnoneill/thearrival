@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-27"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Crap, I shouldn\u2019t have touched that",
+            "purpose": "commenting",
+            "creator": {
+                "id": "IgorSilva51",
+                "name": "IgorSilva51"
+            },
+            "created": "2021-10-28T16:30:08.702Z",
+            "modified": "2021-10-28T16:30:16.888Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-27",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3646.844970703125,4982.92626953125,973.573486328125,243.39306640625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6f089329-1d9d-42fb-b939-7f75e1ad8886.json"
+}
