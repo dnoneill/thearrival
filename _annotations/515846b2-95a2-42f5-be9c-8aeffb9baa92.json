@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "*Wiggle Wag*",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EvanEyeball",
+                "name": "EvanEyeball"
+            },
+            "created": "2021-10-28T16:41:38.236Z",
+            "modified": "2021-10-28T16:41:43.908Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-32",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3504.624267578125,4147.48193359375,372.37158203125,206.873046875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "515846b2-95a2-42f5-be9c-8aeffb9baa92.json"
+}
