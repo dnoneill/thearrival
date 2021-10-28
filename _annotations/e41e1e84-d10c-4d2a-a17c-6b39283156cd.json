@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-30"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "He walks up the stairs to the room and finds the room with the text that matches that of his key. When entering the room he finds that it is small and cluttered. He wonders if he will be able to feel at home at this place or if he will always feel like a stranger.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "catecornelius",
+                "name": "catecornelius"
+            },
+            "created": "2021-10-28T16:30:06.046Z",
+            "modified": "2021-10-28T16:31:58.771Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-30",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:6.669588565826416,1296.7384033203125,4645.654630184174,1119.7559814453125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e41e1e84-d10c-4d2a-a17c-6b39283156cd.json"
+}
