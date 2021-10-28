@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Home...",
+            "purpose": "commenting",
+            "creator": {
+                "id": "CalebY26",
+                "name": "CalebY26"
+            },
+            "created": "2021-10-28T16:24:10.128Z",
+            "modified": "2021-10-28T16:24:12.919Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:448.83990478515625,1910.856201171875,872.3200073242188,315.840087890625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "284e3a0c-0c99-4b70-8c8e-b1cd7a0b533a.json"
+}
