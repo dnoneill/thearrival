@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "I need this job",
+            "purpose": "commenting",
+            "creator": {
+                "id": "IgorSilva51",
+                "name": "IgorSilva51"
+            },
+            "created": "2021-10-28T16:36:01.489Z",
+            "modified": "2021-10-28T16:36:04.779Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-17",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:3558.8740234375,5031.80029296875,1062.00244140625,216.8876953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dcb8cd4b-25cb-4ed7-ae5e-e613539de9da.json"
+}
