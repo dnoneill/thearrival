@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5"
+order: 11
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "More",
+            "purpose": "commenting",
+            "creator": {
+                "id": "rgathert0419",
+                "name": "rgathert0419"
+            },
+            "created": "2021-10-28T16:36:17.330Z",
+            "modified": "2021-10-28T16:36:17.718Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-5",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2136.96875,3266.91748046875,789.47998046875,181.580322265625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2ac32651-c128-4cf6-a0ba-b07a5d5642e1.json"
+}
