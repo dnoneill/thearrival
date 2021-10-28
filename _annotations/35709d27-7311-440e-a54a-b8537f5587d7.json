@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\" I feel so small, like a drop in the ocean. Having no purpose but still have hope that I will belong.\" ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "ClarkR12",
+                "name": "ClarkR12"
+            },
+            "created": "2021-10-28T16:29:29.691Z",
+            "modified": "2021-10-28T16:31:15.190Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-3",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1147.374755859375,5861.3642578125,367.74169921875,308.34716796875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "35709d27-7311-440e-a54a-b8537f5587d7.json"
+}
