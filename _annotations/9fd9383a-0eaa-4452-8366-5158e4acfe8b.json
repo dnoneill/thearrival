@@ -1,0 +1,33 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-25"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The people in this city felt so content with their routines. I wonder if I could ever fully become one of them, or if my ties to home would forever keep me at a distance",
+            "purpose": "commenting",
+            "creator": {
+                "id": "rochguertin",
+                "name": "rochguertin"
+            },
+            "created": "2021-10-28T16:33:10.421Z",
+            "modified": "2021-10-28T16:34:15.899Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-25",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"2567.0792541503906\" cy=\"3334.4281005859375\" rx=\"1652.8333435058594\" ry=\"226.1771240234375\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9fd9383a-0eaa-4452-8366-5158e4acfe8b.json"
+}
