@@ -1,4 +1,8 @@
 images:
--
-manifests:
--
+- null
+- null
+settings:
+  tempuser: notenabled
+  viewer: default
+  widgets: comment-with-purpose, tag, geotagging
+version: '2.0'
